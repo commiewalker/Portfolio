@@ -52,7 +52,7 @@ export default function AutoGrid() {
                         <Grid container>
                             <Grid item xs={12} sm={3}>
                                 <Paper className={classes.paper} elevation="0" >
-                                    <img className={classes.displayPic} src="/pic/me.jpg" alt="mypic" width="50%" ></img>
+                                    <img className={classes.displayPic} src="/Pic/me.jpg" alt="mypic" width="50%" ></img>
                                 </Paper>
                             </Grid>
                             <Grid item xs={12} sm={9}>
